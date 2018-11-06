@@ -51,6 +51,7 @@ i.e. "python conditional statements"
 * Defining functions
   * Return values
   * The special value `None`
+  * The `pass` statement
   * Accepting parameters to functions
   * Keyword arguments
 * Loops
@@ -65,7 +66,6 @@ i.e. "python conditional statements"
   * Immutability
   * f-Strings
   * Multiline strings
-* The `pass` statement
 * File I/O
 * Modules
   * Using modules with the `import` statement

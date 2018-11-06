@@ -26,6 +26,7 @@ an object of that type using the dot operator.  For example:
 * `type()`
 * `id()`
 * `isinstance()`
+* `dir()`
 
 You can use the _membership operator_ `in` to test for element existence in a collection or sequence:
 
