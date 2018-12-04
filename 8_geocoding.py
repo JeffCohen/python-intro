@@ -7,7 +7,7 @@
 import json
 from urllib.request import urlopen
 
-url = "https://maps.googleapis.com/maps/api/geocode/json?address=Millenium+Park,+Chicago,+IL"
+url = "https://maps.googleapis.com/maps/api/geocode/json?address=Millenium+Park,+Chicago,+IL&key=AIzaSyDttiQ5XjbJAombW2oliPDujDtBw6XZD7Q"
 webservice = urlopen(url)
 encoded_data = webservice.read()
 decoded_data = encoded_data.decode("utf8")

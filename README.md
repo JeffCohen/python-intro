@@ -35,15 +35,18 @@ i.e. "python conditional statements"
   * Writing scripts
     * Printing to the screen
     * LAB: `1_quotes.py`
+* Collections
+    * `list`
+    * `tuple`
+    * `dict`
+    * `range`
 * Logic (Typealong: 2_password.py)
+  * Boolean logic: `True`, `False`, `and`, `or`, `not`
   * Conditional statements
   * Indentation
-  * Boolean logic: `True`, `False`, `and`, `or`, `not`
-* Collection types
-  * `list`
-  * `range`
-  * `tuple`
-  * `dict`
+  * Loops
+    * `while`
+    * `for`
   * LAB: `3_planets.py`
 * Sequences
   * `str`, `list`, `tuple`
@@ -54,9 +57,6 @@ i.e. "python conditional statements"
   * The `pass` statement
   * Accepting parameters to functions
   * Keyword arguments
-* Loops
-  * `while`
-  * `for`
   * LAB: `4_solar_system.py`
   * LAB: `5_sears_tower.py`
 
